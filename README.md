@@ -4,8 +4,6 @@
   <p align="center">
     for Fetch Rewards
     <br />
-    <br />
-    <br />
     <a href="https://codyarose.com/">Portfolio</a>
     ·
     <a href="https://www.linkedin.com/in/codyarose/">LinkedIn</a>
